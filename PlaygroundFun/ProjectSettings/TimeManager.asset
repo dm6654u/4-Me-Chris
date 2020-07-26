@@ -4,6 +4,10 @@
 TimeManager:
   m_ObjectHideFlags: 0
   Fixed Timestep: 0.02
+<<<<<<< HEAD
   Maximum Allowed Timestep: 0.33333334
+=======
+  Maximum Allowed Timestep: 0.1
+>>>>>>> a05b96db5e56feca026f4e41cafe23920f9961fb
   m_TimeScale: 1
   Maximum Particle Timestep: 0.03
